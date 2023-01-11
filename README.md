@@ -1,2 +1,3 @@
-# recipe
-Carpentries demo of GitHub for sharing a recipe.
+# RECIPES
+
+Some cool recipes I have
