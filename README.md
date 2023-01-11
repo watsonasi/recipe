@@ -1,3 +1,4 @@
 # RECIPES
 
-Some cool recipes I have
+Here are recipes for guacamole, avocado salad, and a smoothie
+
