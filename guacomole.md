@@ -1,9 +1,12 @@
+Great Guacamole for a party!
+
 Ingredients:
 - 2 avocados
 - 1 lime
 - 2 tsp salt
 - half an onion
 - 1 jalapeno
+- pinch of cilantro
 
 Instructions:
 - cut and mash avocados
