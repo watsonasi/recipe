@@ -1,2 +1,2 @@
-# recipe
-Carpentries demo of GitHub for sharing a recipe.
+# Recipes
+Here are recipes for guacamole, avocado salad, and a smoothie
